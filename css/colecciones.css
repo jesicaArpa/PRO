@@ -1,0 +1,71 @@
+h1{
+    color: rgba(0, 0, 0, 0.644);
+    font-size: 25px;
+    text-align: center;
+    padding-top:30px;
+    padding-bottom: 20px;
+    background-image: linear-gradient(#998376, #E8C6B3);
+    
+}
+.paraTransicion:hover {
+    transition: 3s;
+    font-size: 3rem;
+}
+
+P{
+    
+    font-size: 35px;
+    background-color: white;
+    font-family: 'Benne', serif;
+    color: rgb(24, 22, 22);
+    height: 80px;
+    text-align: center;
+    margin:0;
+    padding:0;
+    display:flex;
+    flex-direction: row;
+    justify-content:space-around;
+    align-items: center;
+    font-weight: bold;
+}
+
+.imagen1{
+    width: 100%;
+    height: 550px;
+
+}
+.imagen2{
+    width: 47%;
+    height: 350px;
+
+}
+.imagen3{
+    width: 50%;
+    height: 350px;
+
+}
+.imagen4{
+    width: 50%;
+    height: 350px;
+
+}
+.imagen5{
+    width: 45%;
+    height: 350px;
+
+}
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.footer{
+    background-color: black;
+}
+.todoImagen{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 100%;
+}
